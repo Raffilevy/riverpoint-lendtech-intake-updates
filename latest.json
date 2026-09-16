@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.0/Riverpoint-Lendtech-Intake.exe",
-  "sha256": "70d5ec9615a02292cdded8b0df517dc260ffc45b74324cb4d0bbf4e08d6b5b4a",
-  "size": 37351395,
-  "notes": "Upload recovery with rejected filenames, emails listing missing uploads with all originals attached, and automatic GitHub updates that preserve saved connections."
+  "version": "1.2.1",
+  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.1/Riverpoint-Lendtech-Intake.exe",
+  "sha256": "e1b4641632340d885328c2035058d8dad5acacab09a69b8b9ee1511cb4c54807",
+  "size": 37359771,
+  "notes": "Box downloads retry temporary connection failures. Nested folders and duplicate filenames are retained. View download details identifies blocked files by folder path; incomplete folders remain stopped until every original is available."
 }

@@ -1,0 +1,7 @@
+{
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.0/Riverpoint-Lendtech-Intake.exe",
+  "sha256": "70d5ec9615a02292cdded8b0df517dc260ffc45b74324cb4d0bbf4e08d6b5b4a",
+  "size": 37351395,
+  "notes": "Upload recovery with rejected filenames, emails listing missing uploads with all originals attached, and automatic GitHub updates that preserve saved connections."
+}

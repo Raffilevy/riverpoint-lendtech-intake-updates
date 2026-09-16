@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.1/Riverpoint-Lendtech-Intake.exe",
-  "sha256": "e1b4641632340d885328c2035058d8dad5acacab09a69b8b9ee1511cb4c54807",
-  "size": 37359771,
-  "notes": "Box downloads retry temporary connection failures. Nested folders and duplicate filenames are retained. View download details identifies blocked files by folder path; incomplete folders remain stopped until every original is available."
+  "version": "1.2.2",
+  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.2/Riverpoint-Lendtech-Intake.exe",
+  "sha256": "d5be024e02d6a836cb1714c35cf20181cc8165ca74ccaf12b1f9164c07732492",
+  "size": 37368649,
+  "notes": "Blocked Word originals can use complete Box PDF previews, clearly labeled in filenames, review and email. Excel original downloads are unchanged. All files remain required as originals or supported previews."
 }

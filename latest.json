@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
-  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.3/Riverpoint-Lendtech-Intake.exe",
-  "sha256": "811ef7f3e58bc88dba490b028d3d24a810a480c26629fbc3a0dc37598a1b296a",
-  "size": 37369689,
-  "notes": "Clearly separates the running version from a downloaded update and shows the exact action needed before restart. Preserves existing work and automatic update protections."
+  "version": "1.2.4",
+  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.4/Riverpoint-Lendtech-Intake.exe",
+  "sha256": "eb39de96dd1142368262ba029cdc5615fa94456bd1d5f298a7a0ed885960045b",
+  "size": 37370356,
+  "notes": "Removes file-count caps from Box downloads, nested folder traversal, uploads, verification, and email attachments. Removes the four-minute whole-folder cutoff. Existing byte-size and email-size limits remain."
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.2.5",
-  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.5/Riverpoint-Lendtech-Intake.exe",
-  "sha256": "180e9bf317a82e3a16b959a7242c66852f879cd2039b03c15b09f3310a91b51d",
-  "size": 37373240,
-  "notes": "Keeps new multipart submission emails in one conversation. Updates now check automatically at startup and every five minutes, and install at safe idle or normal close without clearing links. Active reviews and uploads are protected."
+  "version": "1.2.6",
+  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.6/Riverpoint-Lendtech-Intake.exe",
+  "sha256": "5b4948ec713ad88f938ff31d987524031512054a70e3af2961357499d3e14b01",
+  "size": 37383236,
+  "notes": "JSON and other extra file types are emailed without Lendtech uploads. Box-blocked extras are listed with their source link so required documents can continue. Review and email clearly distinguish attached extras, unavailable files, and failed uploads. Existing resume protection and automatic updates remain."
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.2.7",
-  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.7/Riverpoint-Lendtech-Intake.exe",
-  "sha256": "34d6319a9439802bfcb19e50e2ef4823a1fa4b9e38ad40a0589350af1be2517d",
-  "size": 37391040,
-  "notes": "Clearer email connection errors, safe recovery from overlapping refreshes, and verified Gmail-only repair for completed deals waiting on email. The deal stays uploaded, and saved files, Lendtech connections, and confirmed email receipts are preserved."
+  "version": "1.2.8",
+  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.8/Riverpoint-Lendtech-Intake.exe",
+  "sha256": "b23709a5f9d555e2516210424b214b405fe1ccfcf49456d3bb6b2145406798ca",
+  "size": 37396446,
+  "notes": "Fix Box downloads when a file page omits its preview access token. Obtain access for the same file using the shared-link session, then verify the original size and hash. Existing upload, email, and automatic-update behavior is preserved."
 }

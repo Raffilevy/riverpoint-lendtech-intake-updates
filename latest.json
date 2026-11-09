@@ -1,7 +1,7 @@
 {
-  "version": "1.2.9",
-  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.9/Riverpoint-Lendtech-Intake.exe",
-  "sha256": "9a6eda0a700c48e3621b5aa59f2b06be18715f7ffb9c5dc1caa2509774be066f",
-  "size": 37397571,
-  "notes": "Adds Check upload and resume for an uncertain document upload on an existing deal. Verifies the exact saved file before continuing remaining uploads, without repeating confirmed files or changing status or assignment."
+  "version": "1.2.10",
+  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.10/Riverpoint-Lendtech-Intake.exe",
+  "sha256": "ae1328cd0c94786a8a39420ad0f281a15917e6efaa996cfe5adb1089a7fbafc9",
+  "size": 37409205,
+  "notes": "Read numbered-owner applications across the supported two-page layout. Review and submit both owners separately, preserving independent name edits and verified upload recovery. Existing submitted deal details are not overwritten."
 }

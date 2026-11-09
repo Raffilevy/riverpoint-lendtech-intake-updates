@@ -1,7 +1,7 @@
 {
-  "version": "1.2.8",
-  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.8/Riverpoint-Lendtech-Intake.exe",
-  "sha256": "b23709a5f9d555e2516210424b214b405fe1ccfcf49456d3bb6b2145406798ca",
-  "size": 37396446,
-  "notes": "Fix Box downloads when a file page omits its preview access token. Obtain access for the same file using the shared-link session, then verify the original size and hash. Existing upload, email, and automatic-update behavior is preserved."
+  "version": "1.2.9",
+  "downloadUrl": "https://github.com/Raffilevy/riverpoint-lendtech-intake-updates/releases/download/v1.2.9/Riverpoint-Lendtech-Intake.exe",
+  "sha256": "9a6eda0a700c48e3621b5aa59f2b06be18715f7ffb9c5dc1caa2509774be066f",
+  "size": 37397571,
+  "notes": "Adds Check upload and resume for an uncertain document upload on an existing deal. Verifies the exact saved file before continuing remaining uploads, without repeating confirmed files or changing status or assignment."
 }
